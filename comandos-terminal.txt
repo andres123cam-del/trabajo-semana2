@@ -1,0 +1,7 @@
+ 1 mkdir semana2
+ 2 cd semana2
+ 3 new-item preguntas-semana2.txt
+ 4 new-item comandos-terminal.txt
+ 5 new reflexion-semana2.txt
+ 6 new-item reflexion-semana2.txt
+ 7 ls
