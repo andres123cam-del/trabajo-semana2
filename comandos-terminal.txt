@@ -1,4 +1,4 @@
-  1 mkdir semana2
+ 1 mkdir semana2
    2 cd semana2
    3 new-item preguntas-semana2.txt
    4 new-item comandos-terminal.txt
@@ -26,4 +26,18 @@
   26 git remote Cristian https://github.com/andres123cam-del/trabajo-semana2.git
   27 git remote add Cristian https://github.com/andres123cam-del/trabajo-semana2.git
   28 git status
-  29 git
+  29 git commit -m "trabajo terminado"
+  30 git status
+  31 git push cristian
+  32 git remote push cristian
+   1 cd .\semana2\
+   2 git status
+   3 git push .\reflexion-semana2.txt
+   4 git add .\reflexion-semana2.txt
+   5 git status
+   6 history
+   7 git status
+   8 git add .\comandos-terminal.txt
+   9 git commit -m " Terminado.2"
+  10 git push
+  11 git push cristian
